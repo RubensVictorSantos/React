@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+Z:\API\Agenda-api\.metadata\.plugins\org.eclipse.jdt.core
